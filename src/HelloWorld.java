@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class HelloWorld
+ * Servlet implementation class HelloWorld,Test GitHut Desktop
  */
 @WebServlet(
 		urlPatterns = { 
